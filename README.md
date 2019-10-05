@@ -2,7 +2,7 @@
 
 Due Date: 10/4
 
-Everyone loves maps, they like to zoom to where they live, where they’ve been, and it often places valuable context about their neighborhood, country and world. Students will create a series of leaflet maps with data from polygons, polylines, dataframe (csv/xlsx) or point and/or raster data. Map data can be spatial data from any resource. (World Maps are fine)
+Everyone loves maps, they like to zoom to where they live, where they’ve been, and it often places valuable context about their neighborhood, country and world. Students will create a series of leaflet maps with data from polygons, polylines, dataframe (csv/xlsx) or point and/or raster data. Map data can be spatial data from any resource. (World Maps are fine). Please Knit and include your final output in an HTML file.
 
 Each Map will include: 
 *	A Basemap
